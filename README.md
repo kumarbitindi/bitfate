@@ -39,8 +39,8 @@ convenience with basic toolchain setup but use of IntelliJ is totally optional.
 ### Security issues
 
 If you discover a security vulnerability in
-`DeFiChain.com`, [please see submit it privately](https://github.com/DeFiCh/.github/blob/main/SECURITY.md).
+`Bitfate.com`, [please see submit it privately](https://github.com/bitfate/.github/blob/main/SECURITY.md).
 
 ## License & Disclaimer
 
-By using `DeFiChain.com` (this repo), you (the user) agree to be bound by [the terms of this license](LICENSE).
+By using `Bitfate.com` (this repo), you (the user) agree to be bound by [the terms of this license](LICENSE).
