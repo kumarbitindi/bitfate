@@ -6,9 +6,9 @@ export default function DeFiChainLogo(
   return (
   
 <svg
-      width="52"
+      width="256"
       height="52"
-      viewBox="0 0 64 64"
+      viewBox="0 0 256 52"
       fill="none"
       xmlns="http://www.w3.org/2000/svg"
       {...props}
