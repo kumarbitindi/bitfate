@@ -1,5 +1,5 @@
 
-# {Bitfate.com](https://bitfate.com)
+# [Bitfate.com](https://bitfate.com)
 
 ## Developing & Contributing
 
