@@ -1,15 +1,15 @@
 {
   "Head": {
-    "title": "DeFiChain | Connecting old and new worlds",
-    "desc": "A blockchain dedicated to fast, intelligent and transparent decentralized financial services, accessible by everyone."
+    "title": "Bitfate | Connecting People With Real Money",
+    "desc": "A blockchain project dedicated to fast, intelligent, and transparent decentralized financial services, accessible by everyone."
   },
   "Header": {
-    "title": "Connecting old and new worlds",
-    "desc": "A blockchain dedicated to fast, intelligent and transparent decentralized financial services, accessible by everyone."
+    "title": "Connecting People With Real Moneys",
+    "desc": "A blockchain project dedicated to fast, intelligent and transparent decentralized financial services, accessible by everyone."
   },
   "StatisticsSection": {
     "dfiMinted": {
-      "title": "TOTAL DFI MINTED",
+      "title": "TOTAL BITF MINTED",
       "desc": "{{perc}} of max supply"
     },
     "tvlLocked": {
@@ -32,11 +32,11 @@
     "label": "JUMPSTART INTO DEFICHAIN ECOSYSTEM",
     "title": "Constant evolution to build, deliver and outperform",
     "cards": {
-      "dfiTitle": "All about $DFI",
+      "dfiTitle": "All about $BITF",
       "dfiSubtitle": "Learn More",
       "tradeWithDexTitle": "Trade with DEX",
       "tradeWithDexSubtitle": "Get Started",
-      "walletsTitle": "Wallets for DeFiChain",
+      "walletsTitle": "Wallets",
       "walletsSubtitle": "Get Started",
       "governanceTitle": "Governance: \nOwn a Masternode",
       "governanceSubtitle": "Get Started"
@@ -54,16 +54,16 @@
       },
       {
         "label": "FEATURED DOWNLOAD",
-        "title": "DeFiChain Wallet",
-        "desc": "Experience DeFiChain with wallet apps built for both desktop and mobile.",
+        "title": "Wallet",
+        "desc": "Experience Blockchain with wallet apps built for both web and mobile.",
         "buttonText": "Go to Downloads",
         "buttonType": "full",
         "url": "https://defichain.com/downloads/"
       },
       {
         "label": "HOW-TO GUIDE",
-        "title": "Buy $DFI",
-        "desc": "Learn about and acquire the $DFI coin from various crypto exchanges.",
+        "title": "Buy $BITF",
+        "desc": "Learn about and acquire the $BITF coin from various crypto exchanges.",
         "buttonText": "Learn more",
         "buttonType": "outline",
         "url": "https://blog.defichain.com/where-and-how-to-buy-dfi-defichain/"
