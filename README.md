@@ -5,7 +5,7 @@
 
 # [DeFiChain.com](https://defichain.com)
 
-> https://defichain.com
+> https://bitfate.com
 
 ## Developing & Contributing
 
