@@ -1,0 +1,16 @@
+{
+  "parserOptions": {
+    "project": "./cypress/tsconfig.json"
+  },
+  "extends": [
+    "plugin:cypress/recommended",
+    "airbnb",
+    "airbnb-typescript",
+    "prettier"
+  ],
+  "plugins": ["prettier"],
+  "ignorePatterns": ["**/plugins/*.ts", "**/support/*.ts"],
+  "rules": {
+    "cypress/unsafe-to-chain-command": "warn"
+  }
+}
