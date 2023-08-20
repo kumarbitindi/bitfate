@@ -2,28 +2,28 @@
   "header": {
     "navbar": {
       "foundation": "Foundation",
-      "dfi": "$DFI",
+      "dfi": "$BITF",
       "dex": "DEX",
       "developers": "Developers",
       "downloads": "Downloads",
       "learn": "Learn",
       "buy": "Buy",
-      "getDfi": "Get DFI",
+      "getDfi": "Get BITF",
       "dfcblog": "Blog",
       "bloglink": "https://blog.defichain.com/",
       "explore": "Explore",
       "build": "Build",
-      "metachain": "MetaChain",
+      "metachain": "FateChain",
       "community": "Community"
     },
     "comingSoon": "COMING SOON",
     "explore": {
       "info": [
         {
-          "title": "EXPLORE DEFICHAIN",
+          "title": "EXPLORE BITFATE",
           "labels": [
             {
-              "title": "$DFI",
+              "title": "$BITF",
               "subtitle": "Learn about the token"
             },
             {
@@ -36,7 +36,7 @@
             },
             {
               "title": "Masternodes",
-              "subtitle": "Decide on the future of DeFiChain"
+              "subtitle": "Decide on the future of FateChain"
             }
           ]
         },
@@ -44,7 +44,7 @@
           "title": "BLOCK EXPLORERS",
           "labels": [
             {
-              "title": "DeFiScan"
+              "title": "FateScan"
             },
             {
               "title": "CryptoID"
@@ -54,7 +54,7 @@
       ],
 
       "image": {
-        "title": "$DFI",
+        "title": "$BITF",
         "subtitle": "Learn about the token and where to get"
       }
     },
@@ -66,8 +66,8 @@
           "subtitle": "Build for modern DeFi Applications"
         },
         {
-          "title": "DeFiChain White Paper",
-          "subtitle": "Fundamentals of DeFiChain"
+          "title": "FateChain White Paper",
+          "subtitle": "Fundamentals of FateChain"
         },
         {
           "title": "GitHub",
@@ -75,11 +75,11 @@
         },
         {
           "title": "Developer Resources",
-          "subtitle": "Start building on DeFiChain"
+          "subtitle": "Start building on FateChain"
         },
         {
           "title": "Media Assets",
-          "subtitle": "Brand resources of DeFiChain"
+          "subtitle": "Brand resources of FateChain"
         },
         {
           "title": "Security",
@@ -93,7 +93,7 @@
           "title": "STAY UPDATED",
           "labels": [
             {
-              "title": "DeFiChain Blog",
+              "title": "Bitfate Blog",
               "subtitle": "Get the latest news"
             }
           ]
@@ -164,20 +164,20 @@
     "sitemap": {
       "EXPLORE": {
         "category": "EXPLORE",
-        "dfi": "$DFI",
+        "dfi": "$BITF",
         "decentralizedExchange": "Decentralized Exchange",
         "wallets": "Wallets",
         "masternodes": "Masternodes"
       },
       "RESOURCES": {
         "category": "RESOURCES",
-        "defiscan": "DeFiScan",
+        "defiscan": "FateScan",
         "defichainwhitepaper": "Whitepaper"
       },
       "BUILD": {
         "category": "BUILD",
         "jellyfishsdk": "Jellyfish SDK",
-        "defichainwhitepaper": "DeFiChain White Paper",
+        "defichainwhitepaper": "Bitfate White Paper",
         "github": "GitHub",
         "developerResource": "Developer Resource",
         "mediaAssets": "Media Assets",
@@ -185,7 +185,7 @@
       },
       "COMMUNITY": {
         "category": "COMMUNITY",
-        "blog": "DeFiChain Blog",
+        "blog": "Bitfate Blog",
         "newsletter": "Newsletter"
       }
     },
