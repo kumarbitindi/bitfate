@@ -55,14 +55,14 @@
 
       "image": {
         "title": "$BITF",
-        "subtitle": "Learn about the token and where to get"
+        "subtitle": "Learn about the token and where to get it."
       }
     },
     "build": {
       "title": "START BUILDING",
       "labels": [
         {
-          "title": "Jellyfish SDK",
+          "title": "Bitfate SDK",
           "subtitle": "Build for modern DeFi Applications"
         },
         {
@@ -176,7 +176,7 @@
       },
       "BUILD": {
         "category": "BUILD",
-        "jellyfishsdk": "Jellyfish SDK",
+        "jellyfishsdk": "Bitfate SDK",
         "defichainwhitepaper": "Bitfate White Paper",
         "github": "GitHub",
         "developerResource": "Developer Resource",
