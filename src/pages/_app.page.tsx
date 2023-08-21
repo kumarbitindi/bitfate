@@ -26,9 +26,9 @@ function MyApp({ Component, pageProps }: AppProps): JSX.Element {
           // @ts-ignore
           gtag("js", new Date());
           // @ts-ignore
-          gtag("config", "G-HP6YZTCLBS");
+          gtag("config", "G-");
         }}
-        src="https://www.googletagmanager.com/gtag/js?id=G-HP6YZTCLBS"
+        src="https://www.googletagmanager.com/gtag/js?id=G-"
       />
       {/* Meta Pixel Code */}
       <Script id="facebook-pixel">
