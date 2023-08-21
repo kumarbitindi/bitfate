@@ -8,10 +8,10 @@ import Footer from "./components/Footer";
 import { Header } from "./components/Header";
 import { WhaleProvider } from "./context/WhaleContext";
 
-const title = "DeFiChain";
-const linkTitle = "DeFiChain - Connecting old and new worlds";
+const title = "Bitfate";
+const linkTitle = "Bitfate - Connecting People With Real Money";
 const description =
-  "A blockchain dedicated to fast, intelligent and transparent decentralized financial services, accessible by everyone.";
+  "A blockchain project dedicated to fast, intelligent, and transparent decentralized services, accessible by everyone.";
 
 /**
  * Default Layout with <Head> providing default Metadata for SEO
@@ -55,7 +55,7 @@ export function Default(props: PropsWithChildren<any>): JSX.Element | null {
         <meta
           property="og:url"
           name="og:url"
-          content="https://defichain.com/"
+          content="https://bitfate.com/"
         />
         <meta
           property="og:description"
@@ -66,7 +66,7 @@ export function Default(props: PropsWithChildren<any>): JSX.Element | null {
         <meta
           property="og:image"
           name="og:image"
-          content="https://defichain.com/img/og/share.png"
+          content="https://bitfate.com/img/og/share.png"
         />
         <meta
           property="og:image:type"
@@ -76,13 +76,13 @@ export function Default(props: PropsWithChildren<any>): JSX.Element | null {
 
         {/* Twitter */}
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:site" content="@defichain" />
-        <meta name="twitter:creator" content="@defichain" />
+        <meta name="twitter:site" content="@bitfate" />
+        <meta name="twitter:creator" content="@bitfate" />
         <meta name="twitter:title" content={linkTitle} />
         <meta name="twitter:description" content={description} />
         <meta
           name="twitter:image"
-          content="https://defichain.com/img/og/share.png"
+          content="https://bitfate.com/img/og/share.png"
         />
         <link rel="icon" href="/favicon.ico" />
         <link rel="icon" type="image/png" sizes="48x48" href="/favicon.png" />
