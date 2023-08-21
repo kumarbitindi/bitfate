@@ -5,9 +5,9 @@ export default function DeFiChainLogo(
 ): JSX.Element {
   return (
   
-<svg
-      width="100"
-      height="100"
+   <svg
+      width="263"
+      height="52"
       viewBox="0 0 263 52"
       fill="none"
       xmlns="http://www.w3.org/2000/svg"
