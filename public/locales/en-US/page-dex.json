@@ -1,12 +1,12 @@
 {
   "Head": {
     "title": "Decentralized Exchange",
-    "desc": "Swap on the DEX, mine liquidity and more, with the DeFiChain wallet app. Available for Windows, macOS and Linux."
+    "desc": "Swap on the DEX, mine liquidity and more, with the Bitfate wallet app. Available for Windows, macOS and Linux."
   },
   "Header": {
     "title": "Decentralized Exchange",
     "desc": {
-      "main": "Liquidity mining for up to 100% returns, decentralized swapping, arbitrage and more, with the DeFi Wallet.",
+      "main": "Liquidity mining for up to 100% returns, decentralized swapping, arbitrage and more, with the Bitfate Wallet.",
       "secondary": "Available for Windows, macOS and Linux"
     }
   },
@@ -31,7 +31,7 @@
     },
     "DecentralizedExchange": {
       "title": "Decentralized Exchange",
-      "desc": "Swap between DFI and wrapped tokens in a completely decentralized, exchange"
+      "desc": "Swap between BITF and wrapped tokens in a completely decentralized, exchange"
     },
     "LiquidityMining": {
       "title": "Liquidity mining",
@@ -39,7 +39,7 @@
     },
     "TokensSupport": {
       "title": "Tokens Support",
-      "desc": "Store and transact in DFI, as well as all tokens in the DeFiChain ecosystem"
+      "desc": "Store and transact in BITF, as well as all tokens in the DeFiChain ecosystem"
     },
     "MiniExplorer": {
       "title": "Mini explorer",
@@ -47,7 +47,7 @@
     },
     "Masternodes": {
       "title": "Masternodes",
-      "desc": "View the full list of masternodes, and create your own masternodes"
+      "desc": "View the full list of masternodes, and create your own Nodes"
     },
     "Console": {
       "title": "Console",
