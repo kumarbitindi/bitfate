@@ -22,7 +22,7 @@ export function InitialTokenSectionItem({
         className
       )}
     >
-      <Icon className="text-brand-100" size={28} />
+      <Icon className="text-brand-100" size={24} />
       <div className="mt-[18.34px] text-dark-700 text-xl font-bold">
         {percentage}
       </div>
