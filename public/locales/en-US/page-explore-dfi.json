@@ -62,8 +62,8 @@
       "burn": "Marketing",
       "destroy": "Liquidity",
       "airDropPercentage": "1%",
-      "burnPercentage": "2%",
-      "destroyPercentage": "2%"
+      "burnPercentage": "4%",
+      "destroyPercentage": "45%"
     },
     "masternodes": {
       "title": "TO NODES OVER TIME",
