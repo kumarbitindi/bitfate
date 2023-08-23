@@ -1,6 +1,7 @@
 import { FiSend } from "react-icons/fi";
 import { AiOutlineFire } from "react-icons/ai";
 import classNames from "classnames";
+import { BinIcon } from "../icons/AiIcon";
 import { BinIcon } from "../icons/BinIcon";
 
 export function InitialTokenSectionItem({
@@ -39,6 +40,6 @@ export enum InitialTokenSectionIcons {
 
 const iconMapping = {
   [InitialTokenSectionIcons.AIRDROP]: FiSend,
-  [InitialTokenSectionIcons.BURN]: AiOutlineFire,
+  [InitialTokenSectionIcons.BURN]: AiIcon,
   [InitialTokenSectionIcons.DESTROY]: BinIcon,
 };
