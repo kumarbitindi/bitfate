@@ -1,4 +1,4 @@
-import { FiSend } from "react-icons/fi";
+import { FiSend } from "../icons/FiIcon";
 import { AiOutlineFire } from "react-icons/ai";
 import classNames from "classnames";
 import { BinIcon } from "../icons/BinIcon";
