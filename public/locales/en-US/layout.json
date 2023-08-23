@@ -35,7 +35,7 @@
               "subtitle": "Store assets in your own way"
             },
             {
-              "title": "Masternodes",
+              "title": "Nodes",
               "subtitle": "Decide on the future of FateChain"
             }
           ]
@@ -47,7 +47,7 @@
               "title": "FateScan"
             },
             {
-              "title": "CryptoID"
+              "title": "DEX"
             }
           ]
         }
