@@ -38,7 +38,7 @@ export enum InitialTokenSectionIcons {
 }
 
 const iconMapping = {
-  [InitialTokenSectionIcons.AIRDROP]: FiCloudDrizzle,
+  [InitialTokenSectionIcons.AIRDROP]: FiCloudRain,
   [InitialTokenSectionIcons.BURN]: AiOutlineNotificatio,
   [InitialTokenSectionIcons.DESTROY]: BinIcon,
 };
