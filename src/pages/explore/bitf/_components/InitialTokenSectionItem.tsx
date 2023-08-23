@@ -1,5 +1,5 @@
 import { FiIcon } from "../icons/FiIcon";
-import { AiIcon } from "../icons/AiIcon.tsx";
+import { AiIcon } from "../icons/AiIcon";
 import classNames from "classnames";
 import { BinIcon } from "../icons/BinIcon";
 
