@@ -13,14 +13,7 @@ export function InitialTokenSectionItem({
   desc: string;
   className?: string;
 }) {
-  const Icon = iconMapping[icon];
-  return (
-    <div
-      className={classNames(
-        "flex flex-col md:w-[136.33px] w-[93.5px]",
-        className
-      )}
-    >
+
   
       <div className="mt-[18.34px] text-dark-700 text-xl font-bold">
         {percentage}
