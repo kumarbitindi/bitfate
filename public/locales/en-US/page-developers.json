@@ -1,14 +1,14 @@
 {
   "Head": {
     "title": "Developers",
-    "desc": "Start building on DeFiChain with developer resources and code"
+    "desc": "Start building on FateChain with developer resources and code"
   },
   "Header": {
     "title": "Developers",
-    "desc": "Build on DeFiChain"
+    "desc": "Build on FateChain"
   },
   "DeveloperResourcesSection": {
-    "title": "Start building on DeFiChain with developer resources and code.",
+    "title": "Start building on FateChain with developer resources and code.",
     "GitHub": {
       "title": "Get developer resources and getting started guides",
       "button": "GitHub"
@@ -18,11 +18,11 @@
       "button": "Downloads"
     },
     "Scan": {
-      "title": "Explore the blockchain on DeFi Scan",
+      "title": "Explore the blockchain on Fate Scan",
       "button": "Explore"
     },
     "WhitePaper": {
-      "title": "Read the DeFiChain technical paper",
+      "title": "Read the FateChain technical paper",
       "button": "White Paper"
     },
     "Reddit": {
@@ -32,6 +32,6 @@
   },
   "CoreContributors": {
     "title": "Core Contributors",
-    "desc": "DeFiChain is an open-source project with a global team of core contributors, supported by a community of developers. The full list of projects and contributors can be found at <0>GitHub<0>."
+    "desc": "FateChain is an open-source project with a global team of core contributors, supported by a community of developers. The full list of projects and contributors can be found at <0>GitHub<0>."
   }
 }
