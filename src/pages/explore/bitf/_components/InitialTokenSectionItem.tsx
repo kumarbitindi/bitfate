@@ -1,4 +1,4 @@
-import { FiSend } from "../icons/FiIcon";
+import { FiIcon } from "../icons/FiIcon";
 import { AiOutlineFire } from "react-icons/ai";
 import classNames from "classnames";
 import { BinIcon } from "../icons/BinIcon";
@@ -38,7 +38,7 @@ export enum InitialTokenSectionIcons {
 }
 
 const iconMapping = {
-  [InitialTokenSectionIcons.AIRDROP]: FiCloudRain,
+  [InitialTokenSectionIcons.AIRDROP]: FiIcon,
   [InitialTokenSectionIcons.BURN]: AiOutlineNotificatio,
   [InitialTokenSectionIcons.DESTROY]: BinIcon,
 };
