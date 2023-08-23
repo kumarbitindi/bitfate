@@ -1,4 +1,4 @@
-export function BinIcon({ size }: { size: number }) {
+export function AiIcon ({ size }: { size: number }) {
   return (
     <svg
       width={size}
