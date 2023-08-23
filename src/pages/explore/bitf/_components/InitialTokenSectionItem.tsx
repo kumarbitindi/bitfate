@@ -4,7 +4,6 @@ import classNames from "classnames";
 import { BinIcon } from "../icons/BinIcon";
 
 export function InitialTokenSectionItem({
-  icon,
   percentage,
   desc,
   className,
