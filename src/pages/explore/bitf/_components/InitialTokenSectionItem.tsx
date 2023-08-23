@@ -1,7 +1,7 @@
 import { FiSend } from "react-icons/fi";
 import { AiOutlineFire } from "react-icons/ai";
 import classNames from "classnames";
-import { BinIcon } from "../icons/AiIcon";
+import { AiIcon } from "../icons/AiIcon";
 import { BinIcon } from "../icons/BinIcon";
 
 export function InitialTokenSectionItem({
