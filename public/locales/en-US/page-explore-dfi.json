@@ -57,10 +57,10 @@
       "descAnd": "and",
       "descAirDrop": "1% are airdropped",
       "descBurn": "4% Marketing, Developments",
-      "descDestroy": "45% Locked in liquidity pool.",
+      "descDestroy": "45% Locked in liquidity pool for 5 years.",
       "airDrop": "Airdropped",
-      "burn": "Marketing,  Developments",
-      "destroy": "Liquidity pool",
+      "burn": "Marketing",
+      "destroy": "Liquidity",
       "airDropPercentage": "1%",
       "burnPercentage": "2%",
       "destroyPercentage": "2%"
