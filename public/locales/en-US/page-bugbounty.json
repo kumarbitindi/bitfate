@@ -1,16 +1,16 @@
 {
   "Head": {
     "title": "Bug Bounty Program",
-    "desc": "DeFiChain is engaging with security experts as well as the community to hunt down vulnerabilities. Our bounty program rewards up to USD 50,000."
+    "desc": "Bitfate is engaging with security experts as well as the community to hunt down vulnerabilities. Our bounty program rewards up to USD 5,000."
   },
   "Header": {
-    "title": "DeFiChain Bug Bounty Program",
-    "desc": "DeFiChain is engaging with security experts as well as the community to hunt down vulnerabilities. Our bounty program rewards up to USD 50,000.",
+    "title": "Bitfate Bug Bounty Program",
+    "desc": "Bitfate is engaging with security experts as well as the community to hunt down vulnerabilities. Our bounty program rewards up to USD 5,000.",
     "submit": "Submit vulnerability"
   },
   "LeaderboardSection": {
     "title": "Leaderboard",
-    "desc": "DeFiChain thanks the following bounty hunters in their efforts to keep DeFiChain secure.",
+    "desc": "Bitfate thanks the following bounty hunters in their efforts to keep Bitfate secure.",
     "hunters": [
       {
         "name": "Dr. Daniel Cagara",
@@ -41,7 +41,7 @@
             "txid": "e2fa3e133e35458328eded333f32e2c525c66861f37ca0be52f5b7e092c96cde"
           },
           {
-            "name": "Dropping of masternode through transaction malleability",
+            "name": "Dropping of node through transaction malleability",
             "payout": {
               "dfi": 6000,
               "usd": 21000
@@ -97,12 +97,12 @@
   },
   "HowToSection": {
     "title": "How to participate",
-    "desc": "There are many ways to get started finding a bug bounty. You can start by connecting to the DeFiChain testnet by running <0>defid -testnet</0>. Alternatively, you could study our source code at <1>GitHub</1>. If you find a bug through interacting with our program and/or studying our source code, we can offer a bug bounty of up to USD 50,000 worth of DFI provided that we find the bug significant, and you are able to provide useful info in regards to fixing or reproducing the issue.",
+    "desc": "There are many ways to get started finding a bug bounty. You can start by connecting to the Bitfate testnet by running <0>defid -testnet</0>. Alternatively, you could study our source code at <1>GitHub</1>. If you find a bug through interacting with our program and/or studying our source code, we can offer a bug bounty of up to USD 5,000 worth of BITF provided that we find the bug significant, and you are able to provide useful info in regards to fixing or reproducing the issue.",
     "bolded": "Be sure to study the code that is tagged for official releases, not the master branch or other code that is still currently under development."
   },
   "SubmissionSection": {
     "title": "Submission process",
-    "desc": "As security is a sensitive issue, we encourage users not to submit public issues regarding the security of the blockchain. We encourage using your own discretion, if you feel the issue is not something the public can easily exploit, then feel free to create an issue at the repo over at <0>GitHub</0>. If the issue presents some critical exploit, then please email us instead at <1>security@defichain.com</1>.",
+    "desc": "As security is a sensitive issue, we encourage users not to submit public issues regarding the security of the blockchain. We encourage using your own discretion, if you feel the issue is not something the public can easily exploit, then feel free to create an issue at the repo over at <0>GitHub</0>. If the issue presents some critical exploit, then please email us instead at <1>security@bitfate.com</1>.",
     "list": {
       "title": "In your submission please include:",
       "entries": [
