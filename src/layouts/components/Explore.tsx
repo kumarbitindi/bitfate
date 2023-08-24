@@ -20,7 +20,7 @@ export function Explore() {
         items: [
           {
             icon: "dfi",
-            href: "/explore/dfi",
+            href: "/explore/bitf",
             title: entries[0].labels[0].title,
             subtitle: entries[0].labels[0].subtitle,
             testID: "explore-dfi",
