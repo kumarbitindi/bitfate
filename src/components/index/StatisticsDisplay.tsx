@@ -58,7 +58,7 @@ export function StatsDisplay() {
           ? t("StatisticsSection.tvlLocked.mobileTitle")
           : t("StatisticsSection.tvlLocked.title"),
       prefix: "$",
-      stats: stats?.tvl.total,
+      stats: 100000,
       desc:
         stats?.tvl.total === undefined
           ? stats?.tvl.total
@@ -68,7 +68,7 @@ export function StatsDisplay() {
     },
     {
       title: t("StatisticsSection.masternodes.title"),
-      stats: stats?.count.masternodes,
+      stats: 100,
       desc:
         masternodeValue === undefined
           ? masternodeValue
