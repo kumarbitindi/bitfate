@@ -84,7 +84,7 @@ viewports.forEach((viewport) => {
       } else if (viewport === "macbook-16" || viewport === "ipad-2") {
         cy.findAllByTestId("header-get-dfi-button").first().click();
       }
-      cy.url().should("include", "/explore/dfi#get-dfi");
+      cy.url().should("include", "/explore/bitf#get-bitf");
       cy.findAllByTestId("section-title-purchase-dfi").should("be.visible");
     });
 
