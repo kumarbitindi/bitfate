@@ -19,7 +19,7 @@
     },
     "masternodes": {
       "title": "NODES",
-      "desc": "${{perc}} locked"
+      "desc": "$100000 locked"
     }
   },
   "ReadyForFlexibilitySection": {
