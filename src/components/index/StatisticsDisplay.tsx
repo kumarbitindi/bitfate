@@ -48,7 +48,7 @@ export function StatsDisplay() {
         supply?.total === undefined
           ? supply?.total
           : t("StatisticsSection.dfiMinted.desc", {
-              perc: calculatePercentage(21, 21),
+              perc: calculatePercentage(supply.total, supply.max),
             }),
       testID: "dfi-minted",
     },
