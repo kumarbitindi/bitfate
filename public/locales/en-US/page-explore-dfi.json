@@ -11,7 +11,7 @@
     },
     "dfiMinted": {
       "title": "TOTAL BITF MINTED",
-      "desc": "out of {{value}}{{suffix}} fixed supply"
+      "desc": "100% max supply"
     }
   },
   "harnessDFISection": {
