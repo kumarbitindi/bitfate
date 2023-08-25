@@ -43,10 +43,10 @@ export function StatsDisplay() {
   const statsItems = [
     {
       title: t("StatisticsSection.dfiMinted.title"),
-      stats: 21M,
+      stats: 21,
       desc:
-         supply?.total === undefined
-          ? supply?.total
+         21 === undefined
+          ? 21
           : t("StatisticsSection.dfiMinted.desc", {
               perc: calculatePercentage(supply.total, supply.max),
             }),
