@@ -44,6 +44,7 @@ export function StatsDisplay() {
     {
       title: t("StatisticsSection.dfiMinted.title"),
       stats: 21,
+      prefix: "M",
       desc:
          supply?.total === undefined
           ? supply?.total
