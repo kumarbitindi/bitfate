@@ -30,7 +30,7 @@ export function DFIStatisticsDisplay() {
   const supplyItems = [
     {
       title: t("statisticsDisplay.circulatingSupply.title"),
-      stats: supply?.circulating,
+      stats: 9450000,
       desc:
         supply === undefined
           ? supply
