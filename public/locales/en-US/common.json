@@ -9,8 +9,8 @@
   "statisticsDisplay": {
     "prefix": "",
     "suffix": {
-      "B+": "M",
-      "M+": "M+",
+      "B+": "B+",
+      "M+": "M",
       "K+": "K+"
     }
   }
