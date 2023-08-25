@@ -70,7 +70,7 @@ export default function GetDFISection() {
       )}
     >
       <section
-        id="get-dfi"
+        id="get-bitf"
         className="lg:w-[45%] flex flex-col gap-5 shrink-0 lg:scroll-mt-[200px] scroll-mt-[150px]"
       >
         <SectionTitle text={t("getDfiSection.title")} testID="purchase-dfi" />
