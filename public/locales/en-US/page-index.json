@@ -15,10 +15,10 @@
     "tvlLocked": {
       "title": "TOTAL VALUE LOCKED IN USD",
       "mobileTitle": "TVL IN USD",
-      "desc": "Pool | Masternodes | Vaults"
+      "desc": "Pool | Nodes | Vaults"
     },
     "masternodes": {
-      "title": "MASTERNODES",
+      "title": "NODES",
       "desc": "${{perc}} locked"
     }
   },
@@ -38,7 +38,7 @@
       "tradeWithDexSubtitle": "Get Started",
       "walletsTitle": "Wallets",
       "walletsSubtitle": "Get Started",
-      "governanceTitle": "Governance: \nOwn a Masternode",
+      "governanceTitle": "Governance: \nOwn a Node",
       "governanceSubtitle": "Get Started"
     }
   },
