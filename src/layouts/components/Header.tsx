@@ -369,7 +369,7 @@ function TabletMobileMenu() {
             className="py-3 bg-dark-00"
             borderClassName="w-full"
             buttonText={t("header.navbar.getDfi")}
-            href="/explore/dfi#get-dfi"
+            href="/explore/bitf#get-bitf"
             onClick={() => {
               if (isMenuActive) {
                 setIsMenuActive(false);
