@@ -165,7 +165,7 @@ export function Header(): JSX.Element {
             <GradientButton
               className="py-3 px-5 bg-dark-00"
               buttonText={t("header.navbar.getDfi")}
-              href="/explore/dfi#get-dfi"
+              href="/explore/bitf#get-bitf"
               onClick={() => {
                 if (isMenuActive) {
                   setIsMenuActive(false);
