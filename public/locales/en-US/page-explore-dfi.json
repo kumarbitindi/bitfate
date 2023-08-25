@@ -7,7 +7,7 @@
   "statisticsDisplay": {
     "circulatingSupply": {
       "title": "CIRCULATING SUPPLY",
-      "desc": "{{perc}} of max supply"
+      "desc": "49% of max supply"
     },
     "dfiMinted": {
       "title": "TOTAL BITF MINTED",
