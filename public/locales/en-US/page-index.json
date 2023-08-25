@@ -10,7 +10,7 @@
   "StatisticsSection": {
     "dfiMinted": {
       "title": "TOTAL BITF MINTED",
-      "desc": "{{perc}} of max supply"
+      "desc": "100% of max supply"
     },
     "tvlLocked": {
       "title": "TOTAL VALUE LOCKED IN USD",
