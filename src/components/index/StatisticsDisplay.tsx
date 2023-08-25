@@ -15,7 +15,7 @@ import { calculatePercentage } from "../../shared/calculatePercentage";
 export function StatsDisplay() {
   const api = useWhaleApiClient();
   const [stats, setStats] = useState<StatsData>();
-  const [supply, setSupply] = useState<21>();
+  const [supply, setSupply] = useState<SupplyData>();
   const { t } = useTranslation("page-index");
   const dimensions = useWindowDimensions();
 
