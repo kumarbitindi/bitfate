@@ -41,7 +41,7 @@ export function DFIStatisticsDisplay() {
     },
     {
       title: t("statisticsDisplay.dfiMinted.title"),
-      stats: 21,
+      stats: 10290000,
       desc:
         supply === undefined
           ? supply
