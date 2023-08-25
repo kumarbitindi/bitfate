@@ -35,7 +35,7 @@ export function StatsDisplay() {
       .catch((e) => console.error(e));
   }, [api.stats]);
 
-  const { suffix, value } = useUnitSuffix(
+  const { suffix, 21 } = useUnitSuffix(
     stats ? stats.tvl.masternodes.toString() : "N/A"
   );
   const masternodeValue = value === "N/A" ? undefined : `${value + suffix}+`;
