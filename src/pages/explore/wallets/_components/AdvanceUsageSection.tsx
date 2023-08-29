@@ -62,7 +62,7 @@ export function AdvanceUsageSection() {
           desc={t("advanceUseSection.entries.CLI.desc")}
           imageSrc="/assets/img/explore/explore-wallet-cli.png"
           testid="AdvanceUseSection.Cli"
-          repoName="defiCh/ain"
+          repoName="bitfate/ain"
           keywords={{
             mac: "apple",
             win: "w64",
@@ -75,7 +75,7 @@ export function AdvanceUsageSection() {
           desc={t("advanceUseSection.entries.DFIElectrum.desc")}
           imageSrc={<FaReact className="fill-brand-100 w-[72px] h-[63px]" />}
           testid="AdvanceUseSection.DFIElectrum"
-          repoName="BirthdayResearch/defichain-electrum"
+          repoName="bitfate/electrum"
           keywords={{
             win: ".exe",
             linux: ".appimage",
