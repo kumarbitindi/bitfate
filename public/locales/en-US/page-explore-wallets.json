@@ -1,59 +1,59 @@
 {
   "heroBanner": {
     "title": "CHOOSE A WALLET THAT SUITS YOU",
-    "subtitle": "DeFiChain Wallets",
+    "subtitle": "Bitfate Wallets",
     "desc": "Gain access to the DeFi landscape through non-custodial wallets designed for a multitude of requirements."
   },
   "footerCards": {
-    "cardTitle": "EXPLORE DEFICHAIN",
+    "cardTitle": "EXPLORE BITFATE",
     "cards": [
       {
         "title": "Trade with DEX"
       },
       {
-        "title": "Get $DFI"
+        "title": "Get $BITF"
       }
     ]
   },
   "dailyUseSection": {
     "sectionTitle": "FOR DAILY USE",
-    "title": "Daily access to DeFiChain",
-    "subtitle": "These wallets provide lightweight, easy access to DeFiChain’s suite of features. Best suited for users who interact with DeFiChain on a near-daily basis, while not compromising on speed and security of funds.",
+    "title": "Daily access to Bitfate",
+    "subtitle": "These wallets provide lightweight, easy access to Bitfate’s suite of features. Best suited for users who interact with Blockchain on a near-daily basis, while not compromising on speed and security of funds.",
     "entries": {
       "DFC": {
-        "title": "Light Wallet",
-        "desc": "Lightweight, instant access to Decentralized Finance for Bitcoin, at your fingertips."
+        "title": "DeFi Wallet",
+        "desc": "Lightweight, instant access to Bitfate's Decentralized Finance at your fingertips."
       },
       "JLY": {
-        "title": "Jellywallet",
-        "desc": "The ultimate non-custodial browser wallet for the DeFiChain ecosystem, allowing seamless access to the exciting world of DeFi and Web3."
+        "title": "Extension",
+        "desc": "The ultimate non-custodial multichain browser wallet, allowing seamless access to the exciting world of DeFi and Web3."
       }
     }
   },
   "advanceUseSection": {
     "sectionTitle": "SUITABLE FOR ADVANCE USAGE",
-    "title": "Advanced usage of DeFiChain",
-    "subtitle": "Advanced wallets that are suited for complex usage of DeFiChain, such as masternode and multi-signature management along with much more.",
+    "title": "Advanced usage of Bitfate",
+    "subtitle": "Advanced wallets that are suited for complex usage of  Bitfate, such as node and multi-signature management along with much more.",
     "entries": {
       "DFC": {
         "title": "Desktop Full-Node Wallet",
         "desc": "Transact, liquidity mine, swap and more with the full-featured and fully-decentralized wallet app. Full node included."
       },
       "RPI": {
-        "title": "DeFi wallet for Raspberry Pi",
+        "title": "Wallet for Raspberry Pi",
         "desc": "A version of the desktop wallet for Raspberry Pi 4B 4GB with official Raspberry Pi OS (32-Bit)."
       },
       "CLI": {
         "title": "CLI",
-        "desc": "Transact and interact with DeFiChain through a command line interface. Full node included."
+        "desc": "Transact and interact with Bitfate through a command line interface. Full node included."
       },
       "DFIElectrum": {
-        "title": "DeFiChain Electrum",
-        "desc": "Multi-signature DeFiChain wallet built with Electrum for treasury use cases and more."
+        "title": "Bitfate Electrum",
+        "desc": "Multi-signature Bitfate wallet built with Electrum for treasury use cases and more."
       },
       "QUANTUM": {
-        "title": "Quantum",
-        "desc": "Quantum is a trusted bridge that facilitates seamless transfers between DeFiChain and Ethereum."
+        "title": "Bridge",
+        "desc": "Trusted bridge that facilitates seamless transfers between Blockchains."
       }
     }
   }
