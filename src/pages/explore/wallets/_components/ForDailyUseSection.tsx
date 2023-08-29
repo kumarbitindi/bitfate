@@ -86,8 +86,8 @@ export function ForDailyUseSection() {
           </div>
         </DownloadCard>
           <DownloadCard
-          title={t("dailyUseSection.entries.JLY.title")}
-          desc={t("dailyUseSection.entries.JLY.desc")}
+          title={t("advanceUseSection.entries.DFC.title")}
+          desc={t("advanceUseSection.entries.DFC.desc")}
           imageSrc="/assets/img/explore/explore-wallet-jellywallet.png"
           testid="DailyUseSection.Jly"
         >
