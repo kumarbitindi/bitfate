@@ -51,7 +51,7 @@ export function AdvanceUsageSection() {
           testid="AdvanceUseSection.Rpi"
         >
           <CardLink
-            url="https://github.com/Martin8617/Defi-Wallet-for-Raspberry-Pi"
+            url="https://github.com/bitfate/Wallet-for-Raspberry-Pi"
             descText="View on"
             text={IconType.GITHUB}
           />
