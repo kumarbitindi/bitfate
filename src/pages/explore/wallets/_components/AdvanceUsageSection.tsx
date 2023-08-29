@@ -42,18 +42,7 @@ export function AdvanceUsageSection() {
       </div>
 
       <div className="grid lg:grid-cols-3 md:grid-cols-2 grid-cols-1 md:gap-6 gap-5 md:mt-16 mt-8">
-        <DynamicDownloadCard
-          title={t("advanceUseSection.entries.DFC.title")}
-          desc={t("advanceUseSection.entries.DFC.desc")}
-          imageSrc="/assets/img/explore/explore-wallet-dfiwallet.png"
-          testid="AdvanceUseSection.Dfc"
-          repoName="defiCh/app"
-          keywords={{
-            mac: ".dmg",
-            win: ".exe",
-            linux: ".appimage",
-          }}
-        />
+    
 
         <DownloadCard
           title={t("advanceUseSection.entries.RPI.title")}
