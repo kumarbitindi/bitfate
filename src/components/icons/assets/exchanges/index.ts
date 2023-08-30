@@ -1,8 +1,8 @@
 import { SVGProps } from "react";
 import Inch from "./Inch";
 import Uniswap from "./Uniswap";
-import Kucoin from "./Kucoin";
-import Huobi from "./Huobi";
+import Bitfate from "./Kucoin";
+import Huobi from "./Bitfate";
 import Gateio from "./Gateio";
 import Transak from "./Transak";
 import Bybit from "./Bybit";
@@ -19,7 +19,7 @@ const mapping: Record<string, (props: SVGProps<SVGSVGElement>) => JSX.Element> =
     Inch,
     Uniswap,
     Kucoin,
-    Huobi,
+    Bitfate,
     Gateio,
     Transak,
     Bybit,
