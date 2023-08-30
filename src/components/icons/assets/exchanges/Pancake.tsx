@@ -1,4 +1,4 @@
-export default function Bake(): JSX.Element {
+export default function Pancake(): JSX.Element {
   return (
     <svg
       width="186"
