@@ -1,8 +1,8 @@
 export default function Huobi(): JSX.Element {
   return (
      <svg
-      width="1500"
-      height="400"
+      width="1125"
+      height="300"
       viewBox="0 0 1125 300"
       fill="none"
       xmlns="http://www.w3.org/2000/svg"
