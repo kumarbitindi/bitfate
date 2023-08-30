@@ -1,4 +1,4 @@
-export default function Dfx(): JSX.Element {
+export default function Dex(): JSX.Element {
   return (
     <svg
       width="304"
