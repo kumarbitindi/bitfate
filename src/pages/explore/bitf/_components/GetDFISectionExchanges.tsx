@@ -32,6 +32,11 @@ export default function GetDFISectionExchanges() {
       name: "Uniswap",
       url: "https://app.uniswap.org/#/swap",
     },
+  
+   
+  ];
+
+  const staking: ExchangeItem[] = [
       {
       id: "GetDFISection.Exchange.Gateio",
       name: "Ocean",
@@ -41,15 +46,6 @@ export default function GetDFISectionExchanges() {
       id: "GetDFISection.Exchange.Transak",
       name: "Dex",
       url: "https://dex.guru/token/bsc/",
-    },
-   
-  ];
-
-  const staking: ExchangeItem[] = [
-    {
-      id: "GetDFISection.Staking.Kucoin",
-      name: "Bitfate",
-      url: "https://bitfate.finance",
     },
    
  
