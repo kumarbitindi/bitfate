@@ -23,7 +23,7 @@ export default function GetDFISectionExchanges() {
     },
     {
       id: "GetDFISection.Exchange.Kucoin",
-      name: "1inch",
+      name: "Inch",
       url: "https://app.1inch.io/#/56/simple/swap/BNB",
     },
     {
