@@ -1,5 +1,5 @@
 import { SVGProps } from "react";
-import 1inch from "./1inch";
+import Inch from "./1inch";
 import Uniswap from "./Uniswap";
 import Kucoin from "./Kucoin";
 import Huobi from "./Huobi";
@@ -17,7 +17,7 @@ import Lock from "./Lock";
 
 const mapping: Record<string, (props: SVGProps<SVGSVGElement>) => JSX.Element> =
   {
-    1inch,
+    Inch,
     Uniswap,
     Kucoin,
     Huobi,
