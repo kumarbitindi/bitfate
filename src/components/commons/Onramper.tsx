@@ -1,5 +1,4 @@
 'use client'
-import { XMarkIcon } from '@heroicons/react/24/solid'
 import { Slot } from '@radix-ui/react-slot'
 import React, { createContext, Dispatch, FC, ReactNode, SetStateAction, useCallback, useContext, useState } from 'react'
 import { IconButton } from './iconbutton'
