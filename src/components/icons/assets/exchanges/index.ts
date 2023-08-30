@@ -12,7 +12,7 @@ import Latoken from "./Latoken";
 import Bitmart from "./Bitmart";
 import EasycryptoAu from "./EasycryptoAu";
 import EasycryptoNz from "./EasycryptoNz";
-import Bake from "./Pancake";
+import Pancake from "./Pancake";
 import Lock from "./Lock";
 
 const mapping: Record<string, (props: SVGProps<SVGSVGElement>) => JSX.Element> =
