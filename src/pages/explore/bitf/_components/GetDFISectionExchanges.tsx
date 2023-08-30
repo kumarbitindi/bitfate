@@ -16,11 +16,7 @@ export default function GetDFISectionExchanges() {
       name: "Pancake",
       url: "https://pancakeswap.finance/swap",
     },
-    {
-      id: "GetDFISection.Exchange.Bitrue",
-      name: "Uniswap",
-      url: "https://app.uniswap.org/#/swap",
-    },
+  
     {
       id: "GetDFISection.Exchange.Kucoin",
       name: "Inch",
@@ -30,6 +26,11 @@ export default function GetDFISectionExchanges() {
       id: "GetDFISection.Exchange.Huobi",
       name: "Bitfate",
       url: "https://bitfate.finance",
+    },
+      {
+      id: "GetDFISection.Exchange.Bitrue",
+      name: "Uniswap",
+      url: "https://app.uniswap.org/#/swap",
     },
       {
       id: "GetDFISection.Exchange.Kucoin",
