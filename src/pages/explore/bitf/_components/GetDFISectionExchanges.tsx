@@ -14,12 +14,12 @@ export default function GetDFISectionExchanges() {
     {
       id: "GetDFISection.Exchange.Bittrex",
       name: "Pancake",
-      url: "https://global.bittrex.com/Market/Index?MarketName=BTC-DFI",
+      url: "https://pancakeswap.finance/swap",
     },
     {
       id: "GetDFISection.Exchange.Bitrue",
-      name: "Bitrue",
-      url: "https://www.bitrue.com/trade/dfi_btc",
+      name: "Uniswap",
+      url: "https://app.uniswap.org/#/swap",
     },
     {
       id: "GetDFISection.Exchange.Kucoin",
