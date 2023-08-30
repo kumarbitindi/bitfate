@@ -9,7 +9,6 @@ import Bybit from "./Bybit";
 import Swyftx from "./Swyftx";
 import Bitdotcom from "./Bitdotcom";
 import Latoken from "./Latoken";
-import Bitmart from "./Bitmart";
 import EasycryptoAu from "./EasycryptoAu";
 import EasycryptoNz from "./EasycryptoNz";
 import Pancake from "./Pancake";
@@ -27,7 +26,6 @@ const mapping: Record<string, (props: SVGProps<SVGSVGElement>) => JSX.Element> =
     Swyftx,
     Bitdotcom,
     Latoken,
-    Bitmart,
     EasycryptoAu,
     EasycryptoNz,
     Pancake,
