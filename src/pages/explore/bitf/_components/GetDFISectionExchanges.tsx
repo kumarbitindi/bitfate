@@ -31,6 +31,11 @@ export default function GetDFISectionExchanges() {
       name: "Bitfate",
       url: "https://bitfate.finance",
     },
+      {
+      id: "GetDFISection.Exchange.Kucoin",
+      name: "Ocean",
+      url: "https://app.openocean.finance/CLASSIC#/BSC",
+    },
    
   ];
 
