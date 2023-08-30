@@ -17,11 +17,7 @@ export default function GetDFISectionExchanges() {
       url: "https://pancakeswap.finance/swap",
     },
   
-    {
-      id: "GetDFISection.Exchange.Bitrue",
-      name: "Inch",
-      url: "https://app.1inch.io/#/56/simple/swap/BNB",
-    },
+
     {
       id: "GetDFISection.Exchange.Kucoin",
       name: "Bitfate",
@@ -46,6 +42,11 @@ export default function GetDFISectionExchanges() {
       id: "GetDFISection.Exchange.Transak",
       name: "Dex",
       url: "https://dex.guru/token/bsc/",
+    },
+        {
+      id: "GetDFISection.Exchange.Bitrue",
+      name: "Inch",
+      url: "https://app.1inch.io/#/56/simple/swap/BNB",
     },
    
  
