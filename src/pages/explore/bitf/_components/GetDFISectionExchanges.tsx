@@ -31,47 +31,7 @@ export default function GetDFISectionExchanges() {
       name: "Huobi",
       url: "https://www.huobi.com/en-us/exchange/dfi_usdt",
     },
-    {
-      id: "GetDFISection.Exchange.Gateio",
-      name: "Gateio",
-      url: "https://www.gate.io/trade/DFI_USDT",
-    },
-    {
-      id: "GetDFISection.Exchange.Transak",
-      name: "Transak",
-      url: "https://global.transak.com",
-    },
-    {
-      id: "GetDFISection.Exchange.Bybit",
-      name: "Bybit",
-      url: "https://www.bybit.com/en-US/trade/spot/DFI/USDT",
-    },
-    {
-      id: "GetDFISection.Exchange.Swyftx",
-      name: "Swyftx",
-      url: "https://swyftx.com/au/buy/defichain",
-    },
-    {
-      id: "GetDFISection.Exchange.Bitdotcom",
-      name: "Bitdotcom",
-      url: "https://www.bit.com/legacy/spot?pair=DFI-USDT",
-    },
-    {
-      id: "GetDFISection.Exchange.Latoken",
-      name: "Latoken",
-      url: "https://latoken.com/exchange/DFI_USDT",
-    },
- 
-    {
-      id: "GetDFISection.Exchange.EasyAu",
-      name: "EasycryptoAu",
-      url: "https://easycrypto.com/au/buy-sell/dfi-defichain",
-    },
-    {
-      id: "GetDFISection.Exchange.EasyNz",
-      name: "EasycryptoNz",
-      url: "https://easycrypto.com/nz/buy-sell/dfi-defichain",
-    },
+   
   ];
 
   const staking: ExchangeItem[] = [
