@@ -23,8 +23,8 @@ export default function GetDFISectionExchanges() {
     },
     {
       id: "GetDFISection.Exchange.Kucoin",
-      name: "Kucoin",
-      url: "https://trade.kucoin.com/DFI-BTC",
+      name: "1inch",
+      url: "https://app.1inch.io/#/56/simple/swap/BNB",
     },
     {
       id: "GetDFISection.Exchange.Huobi",
