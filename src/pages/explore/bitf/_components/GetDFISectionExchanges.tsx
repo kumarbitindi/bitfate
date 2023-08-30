@@ -48,11 +48,7 @@ export default function GetDFISectionExchanges() {
   ];
 
   const staking: ExchangeItem[] = [
-      {
-      id: "GetDFISection.Exchange.Kucoin",
-      name: "Bitfate",
-      url: "https://bitfate.finance",
-    },
+    
      
    
  
