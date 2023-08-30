@@ -18,27 +18,27 @@ export default function GetDFISectionExchanges() {
     },
   
     {
-      id: "GetDFISection.Exchange.Kucoin",
+      id: "GetDFISection.Exchange.Bitrue",
       name: "Inch",
       url: "https://app.1inch.io/#/56/simple/swap/BNB",
     },
     {
-      id: "GetDFISection.Exchange.Huobi",
+      id: "GetDFISection.Exchange.Kucoin",
       name: "Bitfate",
       url: "https://bitfate.finance",
     },
       {
-      id: "GetDFISection.Exchange.Bitrue",
+      id: "GetDFISection.Exchange.Huobi",
       name: "Uniswap",
       url: "https://app.uniswap.org/#/swap",
     },
       {
-      id: "GetDFISection.Exchange.Kucoin",
+      id: "GetDFISection.Exchange.Gateio",
       name: "Ocean",
       url: "https://app.openocean.finance/CLASSIC#/BSC",
     },
      {
-      id: "GetDFISection.Exchange.Gateio",
+      id: "GetDFISection.Exchange.Transak",
       name: "Dex",
       url: "https://dex.guru/token/bsc/",
     },
