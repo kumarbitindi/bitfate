@@ -36,6 +36,11 @@ export default function GetDFISectionExchanges() {
       name: "Ocean",
       url: "https://app.openocean.finance/CLASSIC#/BSC",
     },
+     {
+      id: "GetDFISection.Exchange.Gateio",
+      name: "Dex",
+      url: "https://dex.guru/token/bsc/",
+    },
    
   ];
 
