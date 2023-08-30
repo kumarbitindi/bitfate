@@ -487,22 +487,24 @@ function ComingSoonTag() {
 
 enum MobileTabletDropDownState {
   EXPLORE = "Explore",
-  BUILD = "Build",
   META_CHAIN = "MetaChain",
   COMMUNITY = "Community",
+    BUILD = "Build",
 }
 
 const MenuItems = [
   MobileTabletDropDownState.EXPLORE,
-  MobileTabletDropDownState.BUILD,
+
   MobileTabletDropDownState.META_CHAIN,
   MobileTabletDropDownState.COMMUNITY,
+    MobileTabletDropDownState.BUILD,
 ];
 
 const dropDownMapping = {
   explore: Explore,
-  build: Build,
+
   community: Community,
+    build: Build,
 };
 
 function isSafariBelow164() {
