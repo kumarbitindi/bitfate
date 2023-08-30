@@ -1,7 +1,5 @@
 'use client'
-import { Slot } from '@radix-ui/react-slot'
 import React, { createContext, Dispatch, FC, ReactNode, SetStateAction, useCallback, useContext, useState } from 'react'
-import { IconButton } from './iconbutton'
 
 export const OnramperButton: FC<{ children: ReactNode; className?: string }> = ({ children, className }) => {
   const { setOpen } = useOnramperContext()
