@@ -28,8 +28,8 @@ export default function GetDFISectionExchanges() {
     },
     {
       id: "GetDFISection.Exchange.Huobi",
-      name: "Huobi",
-      url: "https://www.huobi.com/en-us/exchange/dfi_usdt",
+      name: "Bitfate",
+      url: "https://bitfate.finance",
     },
    
   ];
@@ -37,15 +37,11 @@ export default function GetDFISectionExchanges() {
   const staking: ExchangeItem[] = [
     {
       id: "GetDFISection.Staking.Kucoin",
-      name: "Kucoin",
-      url: "https://www.kucoin.com/earn/finance/list",
+      name: "Bitfate",
+      url: "https://bitfate.finance",
     },
    
-    {
-      id: "GetDFISection.Staking.Lock",
-      name: "Lock",
-      url: "https://lock.space/",
-    },
+ 
   ];
 
   return (
