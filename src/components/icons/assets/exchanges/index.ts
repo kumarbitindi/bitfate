@@ -1,5 +1,5 @@
 import { SVGProps } from "react";
-import Inch from "./1inch";
+import Inch from "./Inch";
 import Uniswap from "./Uniswap";
 import Kucoin from "./Kucoin";
 import Huobi from "./Huobi";
