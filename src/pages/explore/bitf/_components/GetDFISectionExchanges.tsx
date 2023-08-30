@@ -13,7 +13,7 @@ export default function GetDFISectionExchanges() {
   const exchanges: ExchangeItem[] = [
     {
       id: "GetDFISection.Exchange.Bittrex",
-      name: "Bittrex",
+      name: "Pancake",
       url: "https://global.bittrex.com/Market/Index?MarketName=BTC-DFI",
     },
     {
