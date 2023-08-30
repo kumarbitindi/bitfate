@@ -84,11 +84,7 @@ export default function GetDFISectionExchanges() {
       name: "Kucoin",
       url: "https://www.kucoin.com/earn/finance/list",
     },
-    {
-      id: "GetDFISection.Staking.Bake",
-      name: "Bake",
-      url: "https://bake.io/",
-    },
+   
     {
       id: "GetDFISection.Staking.Lock",
       name: "Lock",
