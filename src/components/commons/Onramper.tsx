@@ -8,15 +8,6 @@ export const OnramperButton: FC<{ children: ReactNode; className?: string }> = (
     setOpen(true)
   }, [setOpen])
 
-  return (
-    <Slot onClick={onClick} className={className}>
-      {children}
-    </Slot>
-  )
-}
-
-interface OnramperPanelProps {
-  address?: string
 }
 
 export const OnramperPanel: FC<OnramperPanelProps> = ({ address }) => {
