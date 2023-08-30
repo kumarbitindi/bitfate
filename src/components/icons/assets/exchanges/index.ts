@@ -1,7 +1,7 @@
 import { SVGProps } from "react";
 import Inch from "./Inch";
 import Uniswap from "./Uniswap";
-import Bitfate from "./Kucoin";
+import Kucoin from "./Kucoin";
 import Huobi from "./Bitfate";
 import Gateio from "./Gateio";
 import Transak from "./Transak";
