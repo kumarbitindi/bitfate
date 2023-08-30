@@ -54,5 +54,6 @@ export default function Ocean(): JSX.Element {
 						c-1.9,0-3.4,0.5-4.4,1.5c-1.1,1-1.8,2.6-2.1,4.7l0,0h12C446.8,222.1,445,220.1,441.6,220.1z"
          fill="white"
          />
+      </svg>
   );
 }
