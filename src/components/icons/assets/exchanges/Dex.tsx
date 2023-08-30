@@ -1,8 +1,8 @@
 export default function Dex(): JSX.Element {
   return (
     <svg
-      width="304"
-      height="106"
+      width="152"
+      height="53"
       viewBox="0 0 208 79"
       fill="none"
       xmlns="http://www.w3.org/2000/svg"
