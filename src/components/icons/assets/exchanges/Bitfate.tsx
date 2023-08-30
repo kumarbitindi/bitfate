@@ -3,7 +3,7 @@ export default function Huobi(): JSX.Element {
      <svg
       width="256"
       height="52"
-      viewBox="0 0 198.75 38.999999"
+      viewBox="0 0 256 52"
       fill="none"
       xmlns="http://www.w3.org/2000/svg"
     
