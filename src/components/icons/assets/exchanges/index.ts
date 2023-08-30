@@ -13,6 +13,7 @@ import EasycryptoAu from "./EasycryptoAu";
 import EasycryptoNz from "./EasycryptoNz";
 import Pancake from "./Pancake";
 import Lock from "./Lock";
+import Dex from "./Dex";
 
 const mapping: Record<string, (props: SVGProps<SVGSVGElement>) => JSX.Element> =
   {
@@ -30,6 +31,7 @@ const mapping: Record<string, (props: SVGProps<SVGSVGElement>) => JSX.Element> =
     EasycryptoNz,
     Pancake,
     Lock,
+    Dex,
   };
 
 export function getExchangeLogo(
