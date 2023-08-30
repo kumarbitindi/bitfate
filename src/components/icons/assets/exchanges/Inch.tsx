@@ -1,4 +1,4 @@
-export default function 1inch(): JSX.Element {
+export default function Inch(): JSX.Element {
   return (
     <svg
       width="1098"
