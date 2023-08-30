@@ -18,11 +18,7 @@ export default function GetDFISectionExchanges() {
     },
   
 
-    {
-      id: "GetDFISection.Exchange.Kucoin",
-      name: "Bitfate",
-      url: "https://bitfate.finance",
-    },
+ 
       {
       id: "GetDFISection.Exchange.Huobi",
       name: "Uniswap",
