@@ -61,11 +61,7 @@ export default function GetDFISectionExchanges() {
       name: "Latoken",
       url: "https://latoken.com/exchange/DFI_USDT",
     },
-    {
-      id: "GetDFISection.Exchange.Bitmart",
-      name: "Bitmart",
-      url: "https://www.bitmart.com/trade/en?symbol=%24DFI_USDT&layout=basic",
-    },
+ 
     {
       id: "GetDFISection.Exchange.EasyAu",
       name: "EasycryptoAu",
