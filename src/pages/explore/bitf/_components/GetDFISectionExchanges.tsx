@@ -42,7 +42,7 @@ export default function GetDFISectionExchanges() {
     },
     
       {
-      id: "GetDFISection.Exchange.lock",
+      id: "GetDFISection.Exchange.Bybit",
       name: "Bitfate",
       url: "https://bitfate.finance",
     },
@@ -53,7 +53,7 @@ export default function GetDFISectionExchanges() {
   const staking: ExchangeItem[] = [
     
         {
-      id: "GetDFISection.Exchange.lock",
+      id: "GetDFISection.Exchange.Lock",
       name: "Bitfate",
       url: "https://bitfate.finance",
     },
