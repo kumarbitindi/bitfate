@@ -12,7 +12,7 @@ export default function Dex(): JSX.Element {
 		<rect id="SVGID_1_" y="0" width="106" height="106"/>
 	</defs>
 	<clipPath id="SVGID_00000103986309847800305000000000690993401540403869_">
-		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+
 	</clipPath>
 	<g style="clip-path:url(#SVGID_00000103986309847800305000000000690993401540403869_);">
 		<path class="st1" d="M53,106c29.3,0,53-23.7,53-53S82.3,0,53,0S0,23.7,0,53S23.7,106,53,106z"/>
