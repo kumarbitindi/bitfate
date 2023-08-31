@@ -7,7 +7,7 @@ interface ExchangeItem {
   id: string;
   name: string;
   url: string;
-  imageSrc: URL;
+
 }
 
 export default function GetDFISectionExchanges() {
@@ -53,8 +53,10 @@ export default function GetDFISectionExchanges() {
     
        {
       id: "GetDFISection.Exchange.Transak",
-      name: "Dex",
-     imageSrc="/assets/img/explore/explore-wallet-dfinode.png"
+      name: " ",
+              imageSrc="/assets/img/explore/explore-wallet-dfinode.png"
+      url: "https://bitfate.finance",
+
     },
    
  
