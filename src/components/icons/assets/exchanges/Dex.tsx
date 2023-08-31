@@ -14,7 +14,7 @@ export default function Dex(): JSX.Element {
 	<clipPath id="SVGID_00000103986309847800305000000000690993401540403869_">
 
 	</clipPath>
-	<g style="clip-path:url(#SVGID_00000103986309847800305000000000690993401540403869_);">
+
 		<path class="st1" d="M53,106c29.3,0,53-23.7,53-53S82.3,0,53,0S0,23.7,0,53S23.7,106,53,106z"/>
 		
 			<linearGradient id="SVGID_00000098213547863084402280000017512810615387315388_" gradientUnits="userSpaceOnUse" x1="19.5273" y1="83.3823" x2="93.9369" y2="63.5529" gradientTransform="matrix(1 0 0 -1 0 105.8898)">
