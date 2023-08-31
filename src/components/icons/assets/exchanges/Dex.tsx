@@ -6,13 +6,7 @@ export default function Dex(): JSX.Element {
       fill="none"
       xmlns="http://www.w3.org/2000/svg"
     >
-<style type="text/css">
-	.st0{clip-path:url(#SVGID_00000022520219080870250450000005998679927134575543_);}
-	.st1{fill:#181D23;}
-	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_00000078027629635252842550000005711294528283688841_);}
-	.st3{fill:url(#SVGID_00000083070378091281145340000005409033878422900903_);}
-	.st4{fill:#6046FF;}
-</style>
+
 <g>
 	<defs>
 		<rect id="SVGID_1_" y="0" width="106" height="106"/>
