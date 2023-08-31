@@ -52,7 +52,7 @@ export default function GetDFISectionExchanges() {
        {
       id: "GetDFISection.Exchange.Transak",
       name: "Dex",
-      url: "https://dex.guru/token/bsc/",
+     imageSrc="/assets/img/explore/explore-wallet-dfinode.png"
     },
    
  
