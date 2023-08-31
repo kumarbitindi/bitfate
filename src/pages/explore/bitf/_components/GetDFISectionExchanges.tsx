@@ -7,7 +7,6 @@ interface ExchangeItem {
   id: string;
   name: string;
   url: string;
-  imageSrc: string;
 
 }
 
@@ -30,10 +29,11 @@ export default function GetDFISectionExchanges() {
       url: "https://app.openocean.finance/CLASSIC#/BSC",
     },
    
-        {
-      id: "GetDFISection.Exchange.Bitrue",
-      name: "Inch",
-      url: "https://app.1inch.io/#/56/simple/swap/BNB",
+       {
+      id: "GetDFISection.Exchange.Transak",
+      name: "Dex ",
+      url: "https://dex.guru/token/bsc",
+
     },
        {
       id: "GetDFISection.Exchange.Bitrue",
@@ -52,12 +52,10 @@ export default function GetDFISectionExchanges() {
 
   const staking: ExchangeItem[] = [
     
-       {
-      id: "GetDFISection.Exchange.Transak",
-      name: " ",
-              imageSrc="/assets/img/explore/explore-wallet-dfinode.png"
+        {
+      id: "GetDFISection.Exchange.lock",
+      name: "Bitfate",
       url: "https://bitfate.finance",
-
     },
    
  
