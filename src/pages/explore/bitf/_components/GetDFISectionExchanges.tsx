@@ -16,9 +16,6 @@ export default function GetDFISectionExchanges() {
       name: "Pancake",
       url: "https://pancakeswap.finance/swap",
     },
-  
-
- 
       {
       id: "GetDFISection.Exchange.Huobi",
       name: "Uniswap",
