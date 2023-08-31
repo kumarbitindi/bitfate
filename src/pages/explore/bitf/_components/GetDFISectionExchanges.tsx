@@ -7,7 +7,7 @@ interface ExchangeItem {
   id: string;
   name: string;
   url: string;
-  imageSrc: string;
+  imageSrc: url;
 }
 
 export default function GetDFISectionExchanges() {
