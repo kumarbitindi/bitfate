@@ -8,13 +8,7 @@ export default function Dex(): JSX.Element {
       xmlns="http://www.w3.org/2000/svg"
     >
 
-<g>
-	<defs>
-		<rect id="SVGID_1_" y="0" width="106" height="106"/>
-	</defs>
-	<clipPath id="SVGID_00000103986309847800305000000000690993401540403869_">
 
-	</clipPath>
 
 		<path class="st1" d="M53,106c29.3,0,53-23.7,53-53S82.3,0,53,0S0,23.7,0,53S23.7,106,53,106z"/>
 		
@@ -22,7 +16,7 @@ export default function Dex(): JSX.Element {
 			<stop  offset="0" style="stop-color:#9488F0"/>
 			<stop  offset="1" style="stop-color:#3AEAB5"/>
 		</linearGradient>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_00000098213547863084402280000017512810615387315388_);" d="
+		<path d="
 			M53.1,18.3c-3.8,0-6.8,1.5-8.8,3.9c-1.9,2.4-2.7,5.4-2.7,8.3c0,3.1,1.2,6.5,3.1,9.2c1.8,2.6,4.7,5.1,8.4,5.1
 			c3.7,0,6.6-2.5,8.4-5.1c1.9-2.7,3.1-6.1,3.1-9.2c0-2.9-0.8-5.9-2.7-8.3C59.9,19.8,56.9,18.3,53.1,18.3z M46.8,30.5
 			c0-2,0.6-3.8,1.5-5c0.9-1.1,2.4-2,4.7-2c2.4,0,3.8,0.9,4.7,2c1,1.2,1.5,3,1.5,5c0,1.8-0.8,4.2-2.1,6.2c-1.4,2-2.9,2.9-4.1,2.9
