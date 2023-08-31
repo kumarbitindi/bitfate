@@ -31,7 +31,7 @@ export default function GetDFISectionExchanges() {
    
        {
       id: "GetDFISection.Exchange.Transak",
-      name: "Dex ",
+      name: "Dex",
       url: "https://dex.guru/token/bsc",
 
     },
