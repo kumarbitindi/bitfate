@@ -26,15 +26,22 @@ export default function GetDFISectionExchanges() {
       name: "Ocean",
       url: "https://app.openocean.finance/CLASSIC#/BSC",
     },
-     {
-      id: "GetDFISection.Exchange.Transak",
-      name: "Dex",
-      url: "https://dex.guru/token/bsc/",
-    },
+   
         {
       id: "GetDFISection.Exchange.Bitrue",
       name: "Inch",
       url: "https://app.1inch.io/#/56/simple/swap/BNB",
+    },
+       {
+      id: "GetDFISection.Exchange.Bitrue",
+      name: "Inch",
+      url: "https://app.1inch.io/#/56/simple/swap/BNB",
+    },
+    
+      {
+      id: "GetDFISection.Exchange.lock",
+      name: "Bitfate",
+      url: "https://bitfate.finance",
     },
   
    
@@ -42,7 +49,11 @@ export default function GetDFISectionExchanges() {
 
   const staking: ExchangeItem[] = [
     
-     
+       {
+      id: "GetDFISection.Exchange.Transak",
+      name: "Dex",
+      url: "https://dex.guru/token/bsc/",
+    },
    
  
   ];
