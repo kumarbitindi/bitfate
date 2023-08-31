@@ -1,12 +1,13 @@
 import Link from "next/link";
 import { getExchangeLogo } from "@components/icons/assets/exchanges";
 import { useTranslation } from "next-i18next";
-import classNames from "classnames";
+
 
 interface ExchangeItem {
   id: string;
   name: string;
   url: string;
+  imageSrc: string;
 }
 
 export default function GetDFISectionExchanges() {
