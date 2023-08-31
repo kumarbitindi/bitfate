@@ -2,12 +2,10 @@ import Link from "next/link";
 import { getExchangeLogo } from "@components/icons/assets/exchanges";
 import { useTranslation } from "next-i18next";
 
-
 interface ExchangeItem {
   id: string;
   name: string;
   url: string;
-
 }
 
 export default function GetDFISectionExchanges() {
@@ -18,47 +16,41 @@ export default function GetDFISectionExchanges() {
       name: "Pancake",
       url: "https://pancakeswap.finance/swap",
     },
-      {
+    {
       id: "GetDFISection.Exchange.Huobi",
       name: "Uniswap",
       url: "https://app.uniswap.org/#/swap",
     },
-     {
+    {
       id: "GetDFISection.Exchange.Gateio",
       name: "Ocean",
       url: "https://app.openocean.finance/CLASSIC#/BSC",
     },
-   
-       {
+
+    {
       id: "GetDFISection.Exchange.Transak",
       name: "Dex",
       url: "https://dex.guru/token/bsc",
-
     },
-       {
+    {
       id: "GetDFISection.Exchange.Bitrue",
       name: "Inch",
       url: "https://app.1inch.io/#/56/simple/swap/BNB",
     },
-    
-      {
+
+    {
       id: "GetDFISection.Exchange.Bybit",
       name: "Bitfate",
       url: "https://bitfate.finance",
     },
-  
-   
   ];
 
   const staking: ExchangeItem[] = [
-    
-        {
+    {
       id: "GetDFISection.Staking.Lock",
       name: "Bitfate",
       url: "https://bitfate.finance",
     },
-   
- 
   ];
 
   return (
@@ -66,7 +58,7 @@ export default function GetDFISectionExchanges() {
       <ExchangeGrid items={exchanges} />
 
       <div className="mt-14">
-        <div className="font-desc text-dark-700 mb-4">
+        <div className="mb-4 font-desc text-dark-700">
           {t("getDfiSection.stakingText")}
         </div>
         <ExchangeGrid items={staking} />
