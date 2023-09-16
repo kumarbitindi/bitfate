@@ -1,7 +1,7 @@
 
 # [Bitfate.com](https://bitfate.com)
 
-## Developing & Contributing
+# Developing & Contributing
 
 Thanks for contributing, appreciate all the help we can get. Feel free to make a pull-request, we will guide you along
 the way to make it merge-able. Here are some of our documented [contributing guidelines](CONTRIBUTING.md).
