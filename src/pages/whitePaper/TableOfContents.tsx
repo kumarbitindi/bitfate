@@ -91,7 +91,7 @@ const useHeadingsData = (parentReference) => {
     const headingElements = Array.from(
       parentReference.current.querySelectorAll("main h2, main h3")
     );
-
+// eslint-disable-next-line react-hooks/exhaustive-deps
     // Created a list of headings, with H3s nested
     const newNestedHeadings = getNestedHeadings(headingElements);
     setNestedHeadings(newNestedHeadings);
