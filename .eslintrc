@@ -3,7 +3,7 @@
   "rules": {
     // TODO: switched to warn as this is how the code is structured as of the moment
     "react/destructuring-assignment": "warn",
-    "@typescript-eslint/no-use-before-define": "warn",
+    "@typescript-eslint/no-use-before-define": "off",
     "prefer-destructuring": "warn",
     "react/no-array-index-key": "warn",
     "arrow-body-style": "warn",
