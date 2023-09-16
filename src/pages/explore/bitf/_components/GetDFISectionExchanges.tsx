@@ -44,6 +44,7 @@ export default function GetDFISectionExchanges() {
       url: "https://bitfate.finance",
     },
   ];
+  
   const staking: ExchangeItem[] = [
     {
       id: "GetDFISection.Staking.Lock",
