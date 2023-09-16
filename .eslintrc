@@ -20,5 +20,6 @@
     "@typescript-eslint/naming-convention": "warn",
     "no-underscore-dangle": "warn",
     "react/no-unused-prop-types": "warn"
+    "react-hooks/exhaustive-deps": 0
   }
 }
